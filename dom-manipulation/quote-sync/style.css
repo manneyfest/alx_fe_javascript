@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #quote-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #quote-list li {
+    margin: 10px 0;
+    font-style: italic;
+  }
+  
